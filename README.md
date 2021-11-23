@@ -9,3 +9,9 @@ RMSRE (Root Mean Squared Relative Error)
 MARE (Mean Absolute Relative Error)
 RelativeErrorImage 
 ```
+
+## Installation instructions
+Install using pip by running
+```
+pip install --upgrade git+https://github.com/skarrea/imageMetrics.git#egg=imageMetrics
+```
